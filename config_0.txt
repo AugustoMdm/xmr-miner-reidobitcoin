@@ -1,0 +1,62 @@
+
+  "cpu_thread_num": 8,
+  "cpu_threads_conf": [
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    },
+    {
+      "low_power_mode": false,
+      "no_prefetch": false,
+      "affine_to_cpu": false
+    }
+  ],
+  "use_slow_memory": "warn",
+  "nicehash_nonce": true,
+  "aes_override": null,
+  "use_tls": false,
+  "tls_secure_algo": true,
+  "tls_fingerprint": "",
+  "pool_address": "pool.sp1.xmr.reidocoin.com.br",
+  "wallet_address": "463tWEBn5XZJSxLU6uLQnQ2iY9xuNcDbjLSjkn3XAXHCbLrTTErJrBWYgHJQyrCwkNgYvyV3z8zctJLPCZy24jvb3NiTcTJ.a2a4de5fc6e04819b088215e688ebcff334a9b9a91ff437e82cb48caa161ff4a.workerm",
+  "pool_password": "x",
+  "call_timeout": 10,
+  "retry_time": 10,
+  "giveup_limit": 0,
+  "verbose_level": 4,
+  "h_print_time": 60,
+  "daemon_mode": false,
+  "output_file": "",
+  "httpd_port": 4000,
+  "prefer_ipv4": true
